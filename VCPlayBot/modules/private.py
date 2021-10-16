@@ -55,7 +55,7 @@ async def start_(client: Client, message: Message):
                          "🗡️ COMMAND", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💸 OWNER", url=f"https://t.me/{OWNER_NAME}")
+                        "💸 OWNER", url=f"https://t.me/Princepatil96k")
                 ],[
                     InlineKeyboardButton(
                         "😈 OFFICIAL SUPPORT", url=f"https://t.me/{SUPPORT_GROUP}"
