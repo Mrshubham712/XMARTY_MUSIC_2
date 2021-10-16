@@ -2,7 +2,7 @@
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://telegra.ph/file/0b2272ddb6abf751be763.jpg">
 </p>
 # Ｈｏｗ Ｔｏ Ｈｏｓｔ
 
@@ -13,15 +13,15 @@ Tʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛʜɪs Bᴏᴛ
 # ⚡sᴇᴄᴏɴᴅ ᴍᴇᴛʜᴏᴅ ᴏғ ᴅᴇᴘʟᴏʏɪɴɢ⚡
   
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Xmarty_Music_2&envs=API_ID,API_HASH,BOT_TOKEN,DURATION_LIMIT,BOT_USERNAME,ASSISTANT_NAME,SESSION_NAME,SUDO_USER)
-- Support Channel :- [✨乂мαяτγ_ՏՄρρԾՐԵ✨](https://t.me/Xmarty_Support )
+- Support Channel :- [✨乂PRINCE SUPPORT✨](https://t.me/KING_PRINCE_SUPPORT )
 
-- Support Group :- [✨乂мαяτγ_ՏՄρρԾՐԵ✨](https://t.me/Xmarty_Support )
+- Support Group :- [✨PRINCE SUPPORT✨](https://t.me/STUDY_FLOWER_QUIZ_GROUP )
 
 ```
 
 Please fork this repository don't import code
 Made with Python3
-(C) @Xmartymusic
+(C) @Princepatil96k
 
 ```
 ##
