@@ -46,25 +46,25 @@ async def start_(client: Client, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ α∂∂ мє το γουя gяουρ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕PRINCE KO ADD KARO➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "🤔 ɦσω ƭσ µรε ɱε", callback_data="cbhowtouse")
+                        "🤔 USE ME", callback_data="cbhowtouse")
                 ],[
                     InlineKeyboardButton(
-                         "🗡️ ϲοммαи∂ѕ", callback_data="cbcmds"
+                         "🗡️ COMMAND", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💸 ∂οиατє", url=f"https://t.me/{OWNER_NAME}")
+                        "💸 OWNER", url=f"https://t.me/{OWNER_NAME}")
                 ],[
                     InlineKeyboardButton(
-                        "😈 οƒƒιϲιαℓ gяουρ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "😈 OFFICIAL SUPPORT", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "👉 οƒƒιϲιαℓ ϲнαииєℓ", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "👉 OFFICIAL CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "✨ мακє υя οωи ϐοτ ✨", url="https://github.com/S780821/Xmarty_Music_2"
+                        "✨ POWERED BY✨", url="https://t.me/KING_PRINCE_SUPPORT"
 
                     )
                 ]
@@ -85,10 +85,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Group", url=f"https://t.me/Xmarty_Support"
+                        "✨ Group", url=f"https://t.me/KING_PRINCE_SUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "✨ мακє υя οωи ϐοτ ✨", url="https://github.com/S780821/Xmarty_Music_2"
+                        "✨ мακє υя οωи ϐοτ ✨", url="https://t.me/Princepatil96k"
                     )
                 ]
             ]
