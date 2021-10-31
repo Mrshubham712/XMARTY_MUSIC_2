@@ -46,7 +46,7 @@ async def start_(client: Client, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕PRINCE KO ADD KARO➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕Mr Shubham KO ADD KARO➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
                         "🤔 USE ME", callback_data="cbhowtouse")
@@ -55,7 +55,7 @@ async def start_(client: Client, message: Message):
                          "🗡️ COMMAND", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💸 OWNER", url=f"https://t.me/Princepatil96k")
+                        "💸 OWNER", url=f"https://t.me/mr_shubham712")
                 ],[
                     InlineKeyboardButton(
                         "😈 OFFICIAL SUPPORT", url=f"https://t.me/{SUPPORT_GROUP}"
@@ -64,7 +64,7 @@ async def start_(client: Client, message: Message):
                         "👉 OFFICIAL CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "✨ POWERED BY✨", url="https://t.me/KING_PRINCE_SUPPORT"
+                        "✨ POWERED BY✨", url="https://t.me/mr_shubham712"
 
                     )
                 ]
